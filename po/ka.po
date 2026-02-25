@@ -1,0 +1,123 @@
+# Georgian translation for lxdm.
+# Copyright (C) 2026 lxdm's authors.
+# This file is distributed under the same license as the lxdm package.
+# Ekaterine Papava <papava.e@gtu.ge>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: lxdm\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-28 19:46+0100\n"
+"PO-Revision-Date: 2026-02-25 17:42+0100\n"
+"Last-Translator: Ekaterine Papava <papava.e@gtu.ge>\n"
+"Language-Team: Georgian <(nothing)>\n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: ../data/lxdm.glade.h:1 ../data/themes/Industrial/greeter.ui.h:1
+#: ../src/greeter.c:141 ../src/greeter.c:240 ../src/greeter.c:936
+msgid "User:"
+msgstr "მომხმარებელი:"
+
+#: ../data/lxdm.glade.h:2 ../data/themes/Industrial/greeter.ui.h:2
+msgid "Desktop:"
+msgstr "სამუშაო მაგიდა:"
+
+#: ../data/lxdm.glade.h:3 ../data/themes/Industrial/greeter.ui.h:3
+msgid "Language:"
+msgstr "ენა:"
+
+#: ../data/lxdm.glade.h:4 ../data/themes/Industrial/greeter.ui.h:4
+msgid "Keyboard:"
+msgstr "კლავიატურა:"
+
+#: ../data/config.ui.h:1
+msgid "lxdm config"
+msgstr "lxdm-ის მორგება"
+
+#: ../data/config.ui.h:2
+msgid "Automatic Login"
+msgstr "ავტომატურად შესვლა"
+
+#: ../data/config.ui.h:3
+msgid "Background"
+msgstr "ფონი"
+
+#: ../data/config.ui.h:4 ../src/greeter.c:308 ../src/lang.c:103
+msgid "Default"
+msgstr "ნაგულისხმევი"
+
+#: ../data/config.ui.h:5
+msgid "Enable bottom panel"
+msgstr "ქვედა პანელის ჩართვა"
+
+#: ../data/config.ui.h:6
+msgid "Bottom Panel Options"
+msgstr "ქვედა პანელის მორგება"
+
+#: ../data/config.ui.h:7
+msgid "Transparent panel"
+msgstr "გამჭვირვალე პანელი"
+
+#: ../data/config.ui.h:8
+msgid "Hide sessions"
+msgstr "სესიების დამალვა"
+
+#: ../data/config.ui.h:9
+msgid "Show languages menu"
+msgstr "ენების მენიუს ჩვენება"
+
+#: ../data/config.ui.h:10
+msgid "Show keyboard layouts"
+msgstr "კლავიატურის განლაგებების ჩვენება"
+
+#: ../data/config.ui.h:11
+msgid "Hide quit button"
+msgstr "გასვლის ღილაკის დამალვა"
+
+#: ../data/config.ui.h:12
+msgid "Other Options"
+msgstr "სხვა პარამეტრები"
+
+#: ../data/config.ui.h:13
+msgid "Show user list"
+msgstr "მომხმარებლების სიის ჩვენება"
+
+#: ../data/config.ui.h:14
+msgid "Hide time"
+msgstr "დროის დამალვა"
+
+#: ../src/gdm/gdm-languages.c:614
+msgid "Unspecified"
+msgstr "მიუთითებელი"
+
+#: ../src/greeter.c:168 ../src/greeter.c:922
+msgid "Password:"
+msgstr "პაროლი:"
+
+#: ../src/greeter.c:727
+msgid "_Reboot"
+msgstr "_გადატვირთვა"
+
+#: ../src/greeter.c:731
+msgid "_Shutdown"
+msgstr "გამორთვ_ა"
+
+#: ../src/greeter.c:1042
+msgid ""
+"\n"
+"<i>logged in</i>"
+msgstr ""
+"\n"
+"<i>შესული</i>"
+
+#: ../src/greeter.c:1056 ../src/lang.c:125
+msgid "More ..."
+msgstr "მეტი ..."
+
+#: ../src/config.c:320
+msgid "Browse for more pictures..."
+msgstr "მეტი სურათის მოძებნა..."
